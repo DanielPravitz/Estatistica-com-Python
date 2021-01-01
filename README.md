@@ -1,7 +1,7 @@
 # Estatística com Python
 Projeto relacionado a formação de estatística com Python da Alura.
 Foi utilizado o conjunto de dados da Pesquisa Nancional por Amostra de Domícilios - 2015 (PNAD)
-Cada seção abaixo representa um curso concluído e suas respectivas análises.
+Cada seção abaixo representa um curso concluído, suas respectivas análises e conteúdo aprendido.
 
 ### Frequências e Medidas
 - Classificação das variáveis do conjunto de dados (qualitativas, quantitativas e suas subclassificações)

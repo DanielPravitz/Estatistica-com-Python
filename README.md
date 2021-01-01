@@ -19,6 +19,6 @@ Cada seção abaixo representa um curso concluído e suas respectivas análises.
 - Criação de gráficos para visualizar intervalos de confiança, média e comportamento da amostra
 
 ### Testes e Hipóteses
-
+Em desenvolvimento.
 
 Fonte de consulta teórica: https://openstax.org/details/books/statistics
